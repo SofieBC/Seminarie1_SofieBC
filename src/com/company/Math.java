@@ -12,7 +12,9 @@ public class Math {
 
 
 
+
     public int sub(int one,int two){
+
         return first-second;
         }
         }
