@@ -12,7 +12,7 @@ public class Math {
 
 
 
-    public int sub(int first,int second){
+    public int sub(int Kalle,int Kalle2){
         return first-second;
         }
         }
